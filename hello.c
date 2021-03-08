@@ -2,6 +2,7 @@
 
 main()
 {
-  printf("Hai Harry\n");
+  int i=10;
+  printf("Hai Harry %d\n",i);
 }
 
